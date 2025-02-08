@@ -258,6 +258,12 @@ body{
   
 }
 
+.slide_row{
+  display: flex;
+  align-items: flex-end;
+  justify-content: space-between;
+}
+
 
 .arrow1{
   width: 40px;
