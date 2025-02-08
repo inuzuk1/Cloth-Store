@@ -37,7 +37,7 @@ function Collection(props){
                     <img src={image4} alt="" />
                     <p>Crewneck T-Shirt</p>
                     <h1>Full Sleeve Zipper</h1>
-                    <h2>$99</h2>
+                    <h2>$99000000</h2>
                 </div>
                 <div className='arrows1'>
                     <button className='arrow1'><img src={image6} alt="" /></button>
